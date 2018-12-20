@@ -29,7 +29,7 @@ typekit_kit_id: kwf5dox
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
-permalink: travelog/posts/:title # Post permalink
+permalink: /posts/:title # Post permalink
 
 # Pagination
 paginate: 3
