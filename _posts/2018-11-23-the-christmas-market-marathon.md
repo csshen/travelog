@@ -11,8 +11,6 @@ locations:
 
 ---
 
-{% include img1.html path="/travelog/img/banner.png" caption="Freiburger Munsterplatz" %}
-
 This semester abroad I have been traveling through Europe using a *Eurail Pass*, which has made traveling between countries pretty convenient. I purchased a *3 Month Continuous* pass before the semester had begun, and activated it the first weekend of classes, August 24. Thus, the last day on the pass was November 23. Coincidently, this is was when some of the Christmas markets throughout Europe began to open (However, many of the larger markets didn’t open until the following week).
 
 Nevertheless, my friend Will (whose rail pass was also expiring) and I decided to try to visit as many Christmas markets as we could, using our rail passes as much as possible that final day. We ended up visiting three markets in three different countries that day! Our journey took us to Germany, Switzerland, and back to France. Our day started at around 6:00 am, and ended a little after 9:00 pm.
