@@ -11,7 +11,7 @@ locations:
 
 ---
 
-{% include img1.html path="/img/banner.png" caption="Freiburger Munsterplatz" %}
+{% include img1.html path="/travelog/img/banner.png" caption="Freiburger Munsterplatz" %}
 
 This semester abroad I have been traveling through Europe using a *Eurail Pass*, which has made traveling between countries pretty convenient. I purchased a *3 Month Continuous* pass before the semester had begun, and activated it the first weekend of classes, August 24. Thus, the last day on the pass was November 23. Coincidently, this is was when some of the Christmas markets throughout Europe began to open (However, many of the larger markets didn’t open until the following week).
 
