@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archive
+title: Archive
 ---
 
 <div class="post-date" style="border: None">
