@@ -78,8 +78,7 @@ After traveling another hour and a half, we finally made it to Strasbourg, our f
 
 {% include img1.html path="/assets/images/img-0012.jpg" caption="Strasbourg Place de la Cathedral"%}
 
-The Strasbourg _Christkindelsm&auml;rik_ was much more grand than the other markets we visited and is spread out between _Place Kl&eacute;ber_, _Place Broglie_, and _Place de la Cath&eacute;dral_. There were smaller markets inbetween these, but the bulk of the stalls are scattered among these three. The largest one is definitely the one by the cathedral, which offered a large assortment of mademade crafts and ornaments, in addition to a plethora of food options, inluding vin chaud. The variety at the Strasbourg market was so immense; it is a great place to get those last minute souvenirs of Christmas gifts!
-I ended up getting a nice handmade ornament from a stall ran by a man and his son. 
+The Strasbourg _Christkindelsm&auml;rik_ was much more grand than the other markets we visited and is spread out between _Place Kl&eacute;ber_, _Place Broglie_, and _Place de la Cath&eacute;dral_. There were smaller markets inbetween these, but the bulk of the stalls are scattered among these three. The largest one is definitely the one by the cathedral, which offered a large assortment of mademade crafts and ornaments, in addition to a plethora of food options, inluding vin chaud. The variety at the Strasbourg market was so immense; it is a great place to get those last minute souvenirs of Christmas gifts! I ended up buying a nice handmade ornament from a stall ran by a man and his son. 
 
 It was also cool to see the whole city light up with decorations. Lights were strung across buildings, windows housed elaborate Christmas scenes, and of course a massive tree was put up.
 

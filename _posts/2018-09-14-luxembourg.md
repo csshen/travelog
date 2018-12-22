@@ -8,7 +8,7 @@ location: Luxembourg City, Luxembourg
 
 {% include geotag.html place="Luxembourg, Luxembourg" %}
 
-I was genuinely curious when we decided to go on an impromptu trip to a small country barely knew about. I was amazed we could visit another country after just 45 minutes on a train, and had so many questions about the small country sandwiched between France, Germany, and Belgium.
+I was genuinely curious when we decided to go on an impromptu trip to a small country we barely knew about. I was amazed we could visit another country after just 45 minutes on a train, and had so many questions about the small country sandwiched between France, Germany, and Belgium.
 
 <p class="post-image-caption"></p>
 
