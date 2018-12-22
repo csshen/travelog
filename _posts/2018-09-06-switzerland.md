@@ -14,10 +14,10 @@ Our third week abroad took us to the heart of the Bernese Highlands in the Swiss
 
 {% include img2.html path1="/assets/images/img-0042.jpg" path2="/assets/images/img-0043.jpg" %}
 
-{% include img1.html path="/assets/images/img-0039.jpg" caption="The hike up Harder Kulm was very rewarding and offered panoramic views of the town and the two lakes. We did cheat a little and took the funicular railway up, and only hiked the way down." %}
+{% include img1.html path="/assets/images/img-0039.jpg" caption="Hiking Harder Kulm was very rewarding, and the mountain offered panoramic views of the town and the two lakes. Although, we cheated a bit and took the funicular railway up, only hiking the trail down." %}
 
 {% include img2.html path1="/assets/images/img-0044.jpg" path2="/assets/images/img-0045.jpg" %}
-<p class="post-image-caption">While in Interlaken, we stayed at Balmer's Tent Village.</p>
+<p class="post-image-caption">While in Interlaken, we stayed at Balmer's Tent Village. The view was great, but the tents were cold and damp. Sleeping on the top bunk, I was greeted with cold water droplets seeping through the tent each morning.</p>
 
 {% include img1.html path="/assets/images/img-0041.jpg" %}
 
@@ -27,12 +27,18 @@ Our third week abroad took us to the heart of the Bernese Highlands in the Swiss
 
 {% include geotag.html place="Lauterbrunnen, Switzerland" %}
 
-A short train ride up the valley and we were in Lauterbrunnen. While there, we hiked and hiked until our legs gave up. We were greeted by many breathtaking views and lounging cows.
-
-caption="A little known fact is that Swiss milk chocolate is especially good because their cows are so happy. It could also be that ."
+A short train ride up into the valley and we were in Lauterbrunnen. We spent the whole day hiking and hiking until our legs gave up on us. We were greeted by breathtaking views and lounging cows. 
+In one direction we would see grazing cows in the greenest grass. In another we would see imposing snow capped peaks. Turning our heads once more would reveal stunning waterfalls. It was truly a surreal place to be in. I could feel all my worries disappear under the calming sounds of running water and cow bells ringing.
 
 {% include img1.html path="/assets/images/img-0038.jpg" %}
+{% include img2.html path1="/assets/images/img-0049.jpg" path2="/assets/images/img-0050.jpg" %}
+
+{% include img1.html path="/assets/images/img-0047.jpg" caption="A little known fact is that Swiss chocolate is especially good because their cows are so happy. Okay, the real reason is that alpine cows produce denser, richer milk, a key ingredient in Swiss (milk) chocolate." %}
+
 {% include img1.html path="/assets/images/img-0046.jpg" %}
+{% include img2.html path1="/assets/images/img-0051.jpg" path2="/assets/images/img-0052.jpg" %}
+{% include img2.html path1="/assets/images/img-0054.jpg" path2="/assets/images/img-0053.jpg" %}
+{% include img1.html path="/assets/images/img-0048.jpg" %}
 
 {% include geoloc.html geo="Lauterbrunnen, Switzerland" %}
 

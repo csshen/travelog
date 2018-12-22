@@ -14,7 +14,9 @@ I was genuinely curious when we decided to go on an impromptu trip to a small co
 
 At first glance, Luxembourg did not seem too different from France. We were greeted in French from when we arrived to when we left. However, after closer inspection, the country defintely gave off a different feel, one distinct from France. For one, Luxembourgers speak English very well. It is possible to get around the city speaking English alone without too much trouble.
 
-There are 3 national languages recognized by The Grand Duchy of Luxembourg: French, German, and the lesser known Luxembourgish (L&euml;tzebuergesch). From what I gathered, Luxembourgish sounds like a mixture between German, French, and possibly a little bit of Dutch. There is some degree of mutual intelligibility between the language and German, although intelligibility is highly dependent on the specific regional dialect of German. According to the European Commission’s Eurobarometer 386 survey, Luxembourgers hold the title for most average number of languages spoken, at 3.6. There is a high emphasis on language in schools in Luxembourg, with Luxembourgish being used as much as possible; German is introduced at age 6, and French the following year. Also, English is also compulsory in secondary school.
+There are 3 national languages recognized by The Grand Duchy of Luxembourg: French, German, and the lesser known Luxembourgish (L&euml;tzebuergesch). From what I gathered, Luxembourgish sounds like a mixture between German, French, and possibly a little bit of Dutch. There is some degree of mutual intelligibility between the language and German, although intelligibility is highly dependent on the specific regional dialect of German. According to the European Commission’s Eurobarometer 386 survey, Luxembourgers hold the title for most average number of languages spoken, at 3.6. There is a large emphasis on language in schools in Luxembourg, with Luxembourgish being used as much as possible; German is introduced at age 6, and French the following year. Also, English is also compulsory in secondary school.
+
+<p class="post-image-caption"></p>
 
 I know what you're thinking.
 
@@ -22,7 +24,7 @@ I know what you're thinking.
 
 <p class="post-image-caption">"Dat ass" in Luxembourgish translates to "this/that is" in English.<br>The title of this post is <i>This is Luxembourg</i> in Luxembourgish.</p>
 
-While that is hilarious, all jokes aside, Luxembourg is a small, lovely country that covered with green hills and low mountains. The capital, Luxembourg (City), is home to a ton of medieval architecture has everything from fortresses to arch bridges.
+While that is hilarious, all jokes aside, Luxembourg is a small, charming country that covered with green hills and low mountains. The capital, Luxembourg (City), is home to a ton of medieval architecture has everything from fortresses to arch bridges. We had a great time aimlessly wandering the old city, stopping by the National Museum of History and Art, Place d'Armes, and even stumbling across some ancient Roman ruins.
 
 {% include img1.html path="/assets/images/img-0034.jpg" caption="BCEE Building (Luxembourg State Savings Bank)" %}
 {% include img1.html path="/assets/images/img-0036.jpg" caption="Adolphe Bridge" %}
