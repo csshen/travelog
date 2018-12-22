@@ -19,7 +19,7 @@ On the bus, I was seated in the second to last row of the bus, on the left side.
 
 I tried to block out the noise and put on my headphones, and just ignored all the commotion. The same could not be said about the Frenchman in front of me. The gentlemen behind me got more obnoxious and loud as time went on, yelling at random times for no apparent reason, and the Frenchman finally blew up. Of course he yelled "PROCHAIN ARRET" at them again, looking for a fight. Pardon my French, but the kicker was when he told off loud gentlemen, "FUCK YOUR FAMILY, FUCK YOUR MOTHER."
 
-That phrase set off the Russian gentlemen and a fight broke out. The Frenchman whipped off his jacket, and the three men began to throw punches at each other. It was unfortunate that I was sitting inbetween them, right in the line of their punches. I was pretty upset about how the situation unfolded, as I was jostled quite a bit as collateral damage of their brawl. Nonetheless, I was too tired to care at that point, and justed wanted to sleep. I slowly curled up into a ball in my seat and prayed this nightmare would be over soon.
+That phrase set off the Russian gentlemen and a fight broke out. The Frenchman whipped off his jacket, and the three men began to throw punches at each other. It was unfortunate that I was sitting inbetween them, right in the line of their punches. I was pretty upset about how the situation unfolded, as I was jostled quite a bit as collateral damage of their brawl. Nonetheless, I was too tired to care at that point and just wanted to sleep. I slowly curled up into a ball in my seat and prayed this nightmare would be over soon.
 
 I did not get any sleep on the bus.
 
