@@ -2,7 +2,7 @@
 layout: post
 title:  "The Christmas Market Marathon"
 date:   2018-11-23
-categories: study-abroad
+categories: study-abroad featured
 locations:
 - Metz, France
 - Freiburg, Germany
@@ -15,10 +15,10 @@ This semester abroad I have been traveling through Europe using a *Eurail Pass*,
 
 Nevertheless, my friend Will (whose rail pass was also expiring) and I decided to try to visit as many Christmas markets as we could, using our rail passes as much as possible that final day. We ended up visiting three markets in three different countries that day! Our journey took us to Germany, Switzerland, and back to France. Our day started at around 6:00 am, and ended a little after 9:00 pm.
 
-<p class="post-image-caption"></p>
+{% include img1.html path="/assets/images/img-0030.png" caption="Map of Alsace" %}
 
 
-## Metz
+{% include geotag.html place="Metz, France" %}
 
 The (Thursday) night before our “Christmas market marathon”, was Thanksgiving! Thanksgiving is not celebrated in France, or Europe for that matter, which was a bummer. However, the Christmas market downtown was open that night, so we decided to go explore it. It was a great chance to visit our first Christmas market without traveling far outside of Metz.
 
@@ -28,7 +28,7 @@ There are two main markets, one by *Republique* and the other right outside the 
 <p class="post-image-caption"></p>
 
 
-## Freiburg
+{% include geotag.html place="Freiburg, Germany" %}
 
 Freiburg (im Breisgau) is a German city located half-way between Strasbourg and Basel, along the Rhine river. We didn't know too much about the city before going, other than that the city was dubbed "The sunniest place in Germany," according to meteorological surveys. We decided to go because it was relatively close by train and was one of the few German markets that were open at the time.
 
@@ -40,19 +40,22 @@ The Freiburger Weihnachtsmarkt sold everything from figurines and candles to orn
 
 {% include img2.html path1="/assets/images/img-0003.jpg" path2="/assets/images/img-0004.jpg" %}
 
+<p class="post-image-caption">Wurst with bread and onions (left), Gluhwein (right)</p>
+
 **Side note**: When ordering Gl&uuml;hwein, places will require you to put an extra 1-3 Euros deposit for the mug/cup it is served in. If you return it, you get your deposit back, but I just ended up keeping the mugs and began collecting them.
 
 Second, we also had a nice and hot German _wurst_, served on bread topped with onions. I forgot what the specific type of sausage it was, but it was delicious. Finally, we got some delicous _Nutella candied almonds_ to satisfy our sweet tooth. After we finished eating, we headed back to the train station for our second stop, Basel, Switzerland!
 
+{% include img1.html path="/assets/images/img-0005.jpg" caption="Freiburger Munsterplatz" %}
 {% include img2.html path1="/assets/images/img-0001.jpg" path2="/assets/images/img-0002.jpg" %}
 {% include img2.html path1="/assets/images/img-0006.jpg" path2="/assets/images/img-0007.jpg" %}
-{% include img1.html path="/assets/images/img-0005.jpg" caption="Freiburger Munsterplatz" %}
+
 
 {% include geoloc.html geo="Freiburg, Germany" %}
 <p class="post-image-caption"></p>
 
 
-## Basel
+{% include geotag.html place="Basel, Switzerland" %}
 
 The train ride from Freiburg to Basel was a less an hour, so it wasn't too bad. Basel is the third most populous city in Switzerland, and is unique in that it sits on the Rhine, at the intersection of itself, France, and Germany. As such, Basel is a hub for transit; we were somewhat familiar with the city passing through it many times previously, although never stepping outside the train station before.
 
@@ -69,7 +72,7 @@ Again, after we finished eating, we headed to the train station, to go to our fi
 <p class="post-image-caption"></p>
 
 
-## Strasbourg
+{% include geotag.html place="Strasbourg, France" %}
 
 After traveling another hour and a half, we finally made it to Strasbourg, our final stop of the day! Strasbourg is home to one of the most famous Christmas markets in all of Europe, so it was no surprise that it was very large and crowded during opening night. They don't call Strasbourg the Capital of Christmas *(Capitale de No&euml;l)* for nothing! Coming from the train station, there was a small security checkpoint we had to go through; the armed guards patrolling the area told you about the scale and popularity of this event. Apparently, over 2 million people visit the markets every year, which begins a month before Christmas.
 

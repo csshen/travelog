@@ -1,0 +1,31 @@
+<!-- Paginator Links -->
+<!-- Adopted from @shadowens brilliant solution: https://github.com/Shadowen/jekyll-paginator-links -->
+<ul class="pagination">
+
+    {% assign last_index = site.posts | size | minus: 1 %}
+
+    <!-- First page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" {% if page.url == site.posts[0].url %}disabled="disabled"{% endif %} href="/travelog{{ site.posts[0].url }}"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> First page</a>
+    </li>
+
+    <!-- Previous page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" {% if page.url == site.posts[0].url %}disabled="disabled"{% endif %} href="/travelog{{ page.next.url }}"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> Prev</a>
+    </li>
+
+    <!-- Home -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" href="/travelog/">Home</a>
+    </li>
+
+    <!-- Next page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" {% if page.url == site.posts[last_index].url %}disabled="disabled"{% endif %} href="/travelog{{ page.previous.url }}">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+    </li>
+
+    <!-- Last page -->
+    <li class="pagination-item">
+        <a class="pagination-link pagination-link--non-numeric" {% if page.url == site.posts[last_index].url %}disabled="disabled"{% endif %} href="/travelog{{ site.posts[last_index].url }}">Last page <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+    </li>
+</ul>

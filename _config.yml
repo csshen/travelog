@@ -32,7 +32,7 @@ markdown: kramdown
 permalink: /posts/:title # Post permalink
 
 # Pagination
-paginate: 3
+paginate: 1
 
 # Sass
 sass:

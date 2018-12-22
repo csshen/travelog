@@ -4,11 +4,12 @@ layout: default
 
 {% include menubar.html %}
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  {% include post.html post=post content=post.content %}
-{% endfor %}
-
-{% if paginator.total_pages > 1 %}
-    {% include pagination.html maxPages=5 %}
-{% endif %}
+<!-- This loops through all posts -->
+<div class="post-date" style="border: None">
+	{% for post in site.posts %}
+		<p style="text-align:left;">
+			<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+			<span style="float:right; font-size: 16px">{{post.date | date: "%-d %B %Y"}}</span>
+		</p>
+	{% endfor %}
+</div>

@@ -1,0 +1,10 @@
+---
+layout: default
+title: Featured
+---
+
+{% for post in site.posts %}
+ 	{% if post.categories contains "featured" %}
+  		{% include post.html post=post content=post.content %}
+ 	{% endif %}
+{% endfor %}
